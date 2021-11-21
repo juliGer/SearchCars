@@ -79,9 +79,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'cecadb',
-        'USER': 'ceca_user',
-        'PASSWORD': 'ceca1234',
-        'HOST': 'db',
+        'USER': 'root',
+        'PASSWORD': 'root',
+        'HOST': 'localhost',
         'PORT': '3306',
     }
 }
