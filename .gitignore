@@ -1,6 +1,13 @@
+#virutalenv
 env/
+
+#backend
 backend_ceca/app_ceca/migrations/__pycache__
 backend_ceca/app_ceca/__pycache__
 backend_ceca/ceca/__pycache__
 backend_ceca/data/
 backend_ceca/db_django/
+
+#frontend
+frontend_ceca/node_modules/
+
