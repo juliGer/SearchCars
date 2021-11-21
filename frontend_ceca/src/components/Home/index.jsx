@@ -58,10 +58,8 @@ const Home = () => {
   );
   return (
     <Layout>
-      <br />
-      <br />
-
       <Grid
+        style={{ paddingTop: "60px" }}
         container
         spacing={0}
         flexDirection="column"
@@ -104,7 +102,7 @@ const Home = () => {
                   />
                 </Grid>
                 <Grid container display="flex" justifyContent="center">
-                  <Grid item>
+                  <Grid style={{ marginLeft: "-10px" }} item>
                     {cars &&
                       cars.length !== 0 &&
                       cars.map((car) => (
