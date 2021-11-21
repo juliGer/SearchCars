@@ -1,3 +1,6 @@
 from django.db import models
 
-# Create your models here.
+
+class Car(models.Model):
+    plate = models.CharField(max_length=9)
+    name = models.CharField(max_length=255)
