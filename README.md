@@ -15,13 +15,14 @@
 4. Go to http://localhost:4000/
 5. Enjoy it :wink:!
 
-## How to run in Linux/MacOS
+## How to run in Linux
 
 1. Open a terminal
 2. Go to the comparaEnCasa Directory
-3. Run `run.sh`
-4. Go to http://localhost:4000/
-5. Enjoy it :wink:!
+3. Run `sudo chmod +x run.sh`
+4. Run `sudo ./run.sh`
+5. Go to http://localhost:4000/
+6. Enjoy it :wink:!
 
 ## Tools
 
