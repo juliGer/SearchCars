@@ -7,16 +7,14 @@ services:
     volumes:
       - .:/web_django
     ports:
-      - "8000:8000"
+      - "12000:8000"
     depends_on:
       db:
         condition: service_healthy
   frontend:
     build: ./frontend_ceca
-    expose:
-      - "3000"
     ports:
-      - "3000:3000"
+      - "4000:3000"
     restart: always
     command: yarn start
     volumes:
@@ -24,7 +22,7 @@ services:
   db:
     image: mysql:5.7
     ports:
-      - "3306:3306"
+      - "3406:3306"
     environment:
       MYSQL_DATABASE: "cecadb"
       MYSQL_USER: "ceca_user"

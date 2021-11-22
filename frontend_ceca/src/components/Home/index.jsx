@@ -8,7 +8,6 @@ import {
   IconButton,
   List,
   ListItem,
-  Divider,
 } from "@mui/material";
 import Layout from "components/Layout";
 import SearchBar from "components/SearchBar";

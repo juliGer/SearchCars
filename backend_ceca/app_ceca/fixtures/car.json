@@ -1,0 +1,37 @@
+[
+  {
+    "model": "app_ceca.car",
+    "pk": 3,
+    "fields": { "plate": "AB 123 CD", "name": "Megane" }
+  },
+  {
+    "model": "app_ceca.car",
+    "pk": 4,
+    "fields": { "plate": "AB 123 CC", "name": "Clio" }
+  },
+  {
+    "model": "app_ceca.car",
+    "pk": 5,
+    "fields": { "plate": "AB 123 CA", "name": "Sandero" }
+  },
+  {
+    "model": "app_ceca.car",
+    "pk": 6,
+    "fields": { "plate": "AB 123 CB", "name": "Palio" }
+  },
+  {
+    "model": "app_ceca.car",
+    "pk": 7,
+    "fields": { "plate": "AB 123 CE", "name": "C3" }
+  },
+  {
+    "model": "app_ceca.car",
+    "pk": 8,
+    "fields": { "plate": "AB 123 CF", "name": "Sandero" }
+  },
+  {
+    "model": "app_ceca.car",
+    "pk": 9,
+    "fields": { "plate": "AB 123 CG", "name": "Fiesta" }
+  }
+]
