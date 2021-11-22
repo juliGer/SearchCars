@@ -12,8 +12,7 @@
 1. Open a terminal
 2. Go to the comparaEnCasa Directory
 3. Run `run.bat`
-4. Go to http://localhost:4000/
-5. Enjoy it :wink:!
+
 
 ## How to run in Linux
 
@@ -21,8 +20,15 @@
 2. Go to the comparaEnCasa Directory
 3. Run `sudo chmod +x run.sh`
 4. Run `sudo ./run.sh`
-5. Go to http://localhost:4000/
-6. Enjoy it :wink:!
+
+## Application ready
+Once you see the following image in the console it means that the application is ready to use
+1. Go to http://localhost:4000/
+2. Enjoy it :wink:!
+
+
+![ready](https://cdn.discordapp.com/attachments/818437899778261075/912465903029993543/Screenshot_20211122_182520.png)
+
 
 ## Tools
 
