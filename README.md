@@ -1,4 +1,4 @@
-# ComparaEnCasa-SearchCars
+# SearchCars
 
     Application made in React.js and Django Rest to search for a car from a license plate
 
@@ -10,14 +10,14 @@
 ## How to run in Windows
 
 1. Open a terminal
-2. Go to the comparaEnCasa Directory
+2. Go to the SearchCars Directory
 3. Run `run.bat`
 
 
 ## How to run in Linux
 
 1. Open a terminal
-2. Go to the comparaEnCasa Directory
+2. Go to the SearchCars Directory
 3. Run `sudo chmod +x run.sh`
 4. Run `sudo ./run.sh`
 
